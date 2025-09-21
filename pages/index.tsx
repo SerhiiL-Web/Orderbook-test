@@ -25,7 +25,7 @@ export default function Home() {
                 View Order Book
               </button>
             </Link>
-            
+            <div className='h-2'></div>
             <Link href="/data-understanding">
               <button className="bg-green-600 hover:bg-green-700 text-white font-bold py-4 px-8 rounded-lg text-lg transition-colors duration-200 w-full">
                 Data Understanding
